@@ -1,5 +1,6 @@
-<img src="https://openupthecloud.com/wp-content/uploads/2020/01/Golang.png" alt="Go Logo" width="200">
-
+<p align="center">
+<img src="https://openupthecloud.com/wp-content/uploads/2020/01/Golang.png" alt="Go Logo" width="300">
+</p>
 # API-Golang Project
 
 This project is a RESTful API built with Go (Golang), following best practices and clean architecture principles. It features a structured project layout, dependency injection, unit testing, and more.
