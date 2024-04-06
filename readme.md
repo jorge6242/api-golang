@@ -1,3 +1,5 @@
+![Go Logo](https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg)
+
 # API-Golang Project
 
 This project is a RESTful API built with Go (Golang), following best practices and clean architecture principles. It features a structured project layout, dependency injection, unit testing, and more.
