@@ -1,4 +1,4 @@
-<img src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go Logo" width="200">
+<img src="https://openupthecloud.com/wp-content/uploads/2020/01/Golang.png" alt="Go Logo" width="200">
 
 # API-Golang Project
 
