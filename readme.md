@@ -1,4 +1,4 @@
-![Go Logo](https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg)
+<img src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go Logo" width="150">
 
 # API-Golang Project
 
