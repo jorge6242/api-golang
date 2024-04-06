@@ -1,0 +1,50 @@
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Output directories
+/bin/
+/dist/
+
+# Dependencies
+/vendor/
+Gopkg.lock
+go.sum
+
+# IDE/Editor specific files and directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system-specific file system files
+.DS_Store
+Thumbs.db
+
+# Go workspace directory
+/pkg/
+
+# Coverage directories and files
+/coverage/
+*.cover
+*.coverage
+
+# Cache files
+*.log
+*.swp
+*.swo
+.cache
+
+# Ignore build logs
+build-errors.log
+
+# Ignore temporary files and directories
+tmp/
+
+# Executable binary
+/tmp/main
